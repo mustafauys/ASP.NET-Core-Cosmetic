@@ -1,0 +1,27 @@
+Sipariş vermek için kart bilgileri:
+--------------------------------------
+        isim: ali
+        soyisim: yılmaz
+        adres: istanbul
+        şehir: istanbul
+        telefon: 05556543214
+        email: ali@gmail.com
+        kart ismi: Ali Yılmaz
+        kart numarası: 5528790000000008
+        kart ayı : 12
+        kart sona erme yılı: 2030
+        cvc: 123
+
+------------------------------------------
+
+Admin giriş bilgileri:
+
+Email: adminuser@shopapp.com
+Şifre: Shopapp_123
+
+------------------------------------------
+
+Normal Üye Giriş Bilgileri:
+
+Email: customeruser@shopapp.com
+Şifre: Shopapp_123
